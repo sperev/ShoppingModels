@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = "ShoppingModels"
-  s.version     = "0.0.1"
+  s.version     = "0.0.2"
   s.summary     = "Models for shopping"
   s.homepage    = "https://github.com/sperev/ShoppingModels"
   s.license     = { :type => "MIT" }

@@ -1,5 +1,5 @@
 //
-//  List.swift
+//  ListProtocol.swift
 //  ShoppingModels
 //
 //  Created by Sergei Perevoznikov on 08/01/2017.
@@ -8,7 +8,7 @@
 
 import CoreData
 
-public protocol List {
+public protocol ListProtocol {
     var id: String { get set }
     var name: String { get set }
 }
